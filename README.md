@@ -94,38 +94,6 @@ This project demonstrates proficiency in:
 - **Prompt Engineering:** Chain-of-Thought and JSON enforcement.
 - **Full Stack AI:** From backend logic (Python) to frontend (Streamlit).
 
-````
+```
 
-### **Step 4: Push to GitHub**
-
-Open your terminal in the project folder and run these commands one by one.
-
-1.  **Initialize Git:**
-    ```bash
-    git init
-    ```
-
-2.  **Add your files (excluding .env):**
-    ```bash
-    git add .
-    ```
-
-3.  **Commit the code:**
-    ```bash
-    git commit -m "Initial commit: Multi-Agent Researcher with LangGraph and Streamlit"
-    ```
-
-4.  **Create the Repo on GitHub:**
-    *   Go to [github.com/new](https://github.com/new).
-    *   Name it `autonomous-researcher`.
-    *   **Do not** check "Add a README" (we already made one).
-    *   Click "Create repository".
-
-5.  **Connect and Push:**
-    *   GitHub will show you a command starting with `git remote add origin...`. Copy that block. It looks like this:
-    ```bash
-    git branch -M main
-    git remote add origin https://github.com/YOUR_USERNAME/autonomous-researcher.git
-    git push -u origin main
-    ```
-````
+```
