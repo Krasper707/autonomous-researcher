@@ -46,7 +46,7 @@ graph TD
 1.  **Clone the repo**
 
     ```bash
-    git clone https://github.com/krasper707/autonomous-researcher.git
+    git clone https://github.com/Krasper707/autonomous-researcher.git
     cd autonomous-researcher
     ```
 
